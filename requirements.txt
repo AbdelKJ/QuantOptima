@@ -9,3 +9,4 @@ skfolio~=0.9.0
 scipy~=1.15.2
 reportlab~=4.3.1
 PyPDF2~=3.0.1
+openpyxl
