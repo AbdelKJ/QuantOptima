@@ -1,0 +1,152 @@
+Asset,Strategy Type,Region,Ticker,ETF Name
+Equities,Global,Global,URTH,iShares MSCI World ETF
+Equities,Global,Global,ACWI,iShares MSCI ACWI ETF
+Equities,Global,Developed Markets,IDEV,iShares International Developed Markets ETF
+Equities,Global,Emerging Markets,EEM,iShares MSCI Emerging Markets ETF
+Equities,Global,Frontier Markets,FM,iShares Frontier and Select EM ETF
+Equities,Global,Europe,IEV,iShares Europe ETF
+Equities,Global,Pacific,IPAC,iShares MSCI Pacific ETF
+Equities,Global,United Kingdom,EWU,iShares MSCI United Kingdom ETF
+Equities,Global,Latin America,ILF,iShares Latin America 40 ETF
+Equities,Global,Global ex-US,IXUS,iShares Core MSCI Total International Stock ETF
+Equities,Country Specific,USA,IVV,iShares Core S&P 500 ETF
+Equities,Country Specific,China,MCHI,iShares MSCI China ETF
+Equities,Country Specific,Japan,EWJ,iShares MSCI Japan ETF
+Equities,Country Specific,United Kingdom,EWU,iShares MSCI United Kingdom ETF
+Equities,Country Specific,India,INDA,iShares MSCI India ETF
+Equities,Country Specific,Canada,EWC,iShares MSCI Canada ETF
+Equities,Country Specific,Brazil,EWZ,iShares MSCI Brazil ETF
+Equities,Country Specific,Mexico,EWW,iShares MSCI Mexico ETF
+Equities,Country Specific,South Korea,EWY,iShares MSCI South Korea ETF
+Equities,Country Specific,Taiwan,EWT,iShares MSCI Taiwan ETF
+Equities,Country Specific,United States,IVV,iShares Core S&P 500 ETF
+Equities,Country Specific,Canada,EWC,iShares MSCI Canada ETF
+Equities,Country Specific,United Kingdom,EWU,iShares MSCI United Kingdom ETF
+Equities,Country Specific,Germany,EWG,iShares MSCI Germany ETF
+Equities,Country Specific,France,EWQ,iShares MSCI France ETF
+Equities,Country Specific,Switzerland,EWL,iShares MSCI Switzerland ETF
+Equities,Country Specific,Italy,EWI,iShares MSCI Italy ETF
+Equities,Country Specific,Spain,EWP,iShares MSCI Spain ETF
+Equities,Country Specific,Netherlands,EWN,iShares MSCI Netherlands ETF
+Equities,Country Specific,Sweden,EWD,iShares MSCI Sweden ETF
+Equities,Country Specific,Belgium,EWK,iShares MSCI Belgium ETF
+Equities,Country Specific,Austria,EWO,iShares MSCI Austria ETF
+Equities,Country Specific,Australia,EWA,iShares MSCI Australia ETF
+Equities,Country Specific,Japan,EWJ,iShares MSCI Japan ETF
+Equities,Country Specific,South Korea,EWY,iShares MSCI South Korea ETF
+Equities,Country Specific,Taiwan,EWT,iShares MSCI Taiwan ETF
+Equities,Country Specific,China,MCHI,iShares MSCI China ETF
+Equities,Country Specific,India,INDA,iShares MSCI India ETF
+Equities,Country Specific,Brazil,EWZ,iShares MSCI Brazil ETF
+Equities,Country Specific,Mexico,EWW,iShares MSCI Mexico ETF
+Equities,Country Specific,Chile,ECH,iShares MSCI Chile ETF
+Equities,Country Specific,South Africa,EZA,iShares MSCI South Africa ETF
+Equities,Country Specific,Indonesia,EIDO,iShares MSCI Indonesia ETF
+Equities,Country Specific,Malaysia,EWM,iShares MSCI Malaysia ETF
+Equities,Country Specific,Thailand,THD,iShares MSCI Thailand ETF
+Equities,Country Specific,Philippines,EPHE,iShares MSCI Philippines ETF
+Equities,Country Specific,Turkey,TUR,iShares MSCI Turkey ETF
+Equities,Global,Global,URTH,iShares MSCI World ETF
+Equities,Global,Global,ACWI,iShares MSCI ACWI ETF
+Equities,Global,Developed Markets,IDEV,iShares International Developed Markets ETF
+Equities,Global,Developed Markets,EFA,iShares MSCI EAFE ETF
+Equities,Global,Developed Markets,IEFA,iShares Core MSCI EAFE ETF
+Equities,Global,Emerging Markets,EEM,iShares MSCI Emerging Markets ETF
+Equities,Global,Emerging Markets,IEMG,iShares Core MSCI Emerging Markets ETF
+Equities,Real Estate,Global,REET,iShares Global REIT ETF
+Bonds,Treasuries,U.S. Broad,GOVT,iShares U.S. Treasury Bond ETF
+Bonds,Treasuries,U.S. Long-Term,TLT,iShares 20+ Year Treasury Bond ETF
+Bonds,Treasuries,U.S. Short-Term,SHY,iShares 1-3 Year Treasury Bond ETF
+Bonds,Corporate,U.S. Investment Grade,LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF
+Bonds,Corporate,U.S. Short-Term IG,IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF
+Bonds,High Yield,U.S. High Yield,HYG,iShares iBoxx $ High Yield Corporate Bond ETF
+Bonds,High Yield,Broad High Yield,USHY,iShares Broad USD High Yield Corporate Bond ETF
+Bonds,Municipal,U.S. National,MUB,iShares National Muni Bond ETF
+Bonds,Municipal,U.S. Short-Term,SUB,iShares Short-Term National Muni Bond ETF
+Bonds,International,Developed Markets,IGOV,iShares International Treasury Bond ETF
+Bonds,Emerging Markets,Local Currency,LEMB,iShares EM Local Currency Bond ETF
+Bonds,Inflation-Linked,U.S. Broad,TIP,iShares TIPS Bond ETF
+Bonds,Inflation-Linked,U.S. Short-Term,STIP,iShares 0-5 Year TIPS Bond ETF
+Commodities,Precious Metals,Gold,IAU,iShares Gold Trust ETF
+Commodities,Precious Metals,Silver,SLV,iShares Silver Trust ETF
+Commodities,Broad,Diversified Commodities,GSG,iShares S&P GSCI Commodity-Indexed Trust
+Commodities,Broad,Roll Strategy,CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF
+Smart Beta,Factor,Momentum (U.S.),MTUM,iShares MSCI USA Momentum Factor ETF
+Smart Beta,Factor,Value (U.S.),VLUE,iShares MSCI USA Value Factor ETF
+Smart Beta,Factor,Quality (U.S.),QUAL,iShares MSCI USA Quality Factor ETF
+Smart Beta,Factor,Low Volatility (U.S.),USMV,iShares MSCI USA Min Volatility ETF
+Smart Beta,Multifactor,U.S. Multifactor,LRGF,iShares MSCI USA Multifactor ETF
+Smart Beta,Multifactor,Intl. Multifactor,INTF,iShares Edge MSCI Intl Multifactor ETF
+ESG,ESG Screened,U.S.,ESGU,iShares ESG Aware MSCI USA ETF
+ESG,Climate,Global Low Carbon,CRBN,iShares MSCI ACWI Low Carbon Target ETF
+Thematic,Clean Energy,Global,ICLN,iShares Global Clean Energy ETF
+Thematic,Cybersecurity,Global,IHAK,iShares Cybersecurity and Tech ETF
+Thematic,AI & Robotics,Global,IRBO,iShares Robotics and Artificial Intelligence ETF
+Factor Investing,Uni,Minimum Volatility,USMV,iShares MSCI USA Min Vol Factor ETF
+Factor Investing,,Value,VLUE,iShares MSCI USA Value Factor ETF
+Factor Investing,,Momentum,MTUM,iShares MSCI USA Momentum Factor ETF
+Factor Investing,,Quality,QUAL,iShares MSCI USA Quality Factor ETF
+Factor Investing,,Size (Small Cap),SIZE,iShares MSCI USA Size Factor ETF
+Factor Investing,,Multifactor,LRGF,iShares MSCI USA Multifactor ETF
+Factor Investing,,Diversified Multi-Factor,DYNF,iShares U.S. Equity Factor ETF
+Factor Investing,,Global Multifactor,ACWF,iShares Edge MSCI Multifactor Global ETF
+Factor Investing,,Global Min Vol,ACWV,iShares Edge MSCI Min Vol Global ETF
+Factor Investing,,Global Quality,GQAL,iShares Edge MSCI USA Quality Factor ETF
+Factor Investing,,Global Value,GVLU,iShares Edge MSCI Global Value Factor ETF
+Factor Investing,,Min Vol - International,EFAV,iShares MSCI EAFE Min Vol Factor ETF
+Factor Investing,,Min Vol - Emerging,EEMV,iShares MSCI Emerging Markets Min Vol ETF
+Factor Investing,,Momentum - Global,IMTM,iShares MSCI Intl Momentum Factor ETF
+Factor Investing,,Quality - Global,IQLT,iShares MSCI Intl Quality Factor ETF
+Factor Investing,,Value - Global,IVLU,iShares MSCI Intl Value Factor ETF
+Factor Investing,,Multifactor - Global,INTF,iShares MSCI Intl Multifactor ETF
+Thematic,,ESG Broad Market,ESGU,iShares ESG Aware MSCI USA ETF
+Thematic,,ESG International,ESGD,iShares ESG Aware MSCI EAFE ETF
+Thematic,,ESG Emerging Mkts,ESGE,iShares ESG Aware MSCI EM ETF
+Thematic,,ESG Global,SUSL,iShares ESG MSCI USA Leaders ETF
+Equities,U.S. Equity,Large Cap Growth,IWF,iShares Russell 1000 Growth ETF
+Equities,U.S. Equity,Large Cap Value,IWD,iShares Russell 1000 Value ETF
+Equities,U.S. Equity,Total Market,ITOT,iShares Core S&P Total U.S. Stock Market ETF
+Equities,International,Asia-Pacific,AAXJ,iShares MSCI All Country Asia ex Japan ETF
+Equities,International,Canada,EWC,iShares MSCI Canada ETF
+Equities,International,Latin America,ILF,iShares Latin America 40 ETF
+Equities,Emerging Markets,Asia,EEMA,iShares MSCI Emerging Markets Asia ETF
+Equities,Emerging Markets,EMEA,EEME,iShares MSCI Emerging Markets EMEA ETF
+Bonds,Treasuries,U.S. Intermediate,IEI,iShares 3-7 Year Treasury Bond ETF
+Bonds,Treasuries,U.S. Short-Term,SHV,iShares Short Treasury Bond ETF
+Bonds,Corporate,U.S. Long-Term IG,IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF
+Bonds,Corporate,U.S. Short-Term HY,SHYG,iShares 0-5 Year High Yield Corporate Bond ETF
+Bonds,International,Emerging Markets,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF
+Commodities,Broad,Diversified,DBC,Invesco DB Commodity Index Tracking Fund
+Real Estate,International,Global ex-U.S.,IFGL,iShares International Developed Real Estate ETF
+Smart Beta,Factor,Size (Small-Cap),IJR,iShares Core S&P Small-Cap ETF
+Smart Beta,Factor,Dividend Growth,DGRO,iShares Core Dividend Growth ETF
+ESG,ESG Aware,International,ESGD,iShares ESG Aware MSCI EAFE ETF
+Thematic,Infrastructure,Global,IGF,iShares Global Infrastructure ETF
+Bonds,Treasuries,U.S. Broad,GOVT,iShares U.S. Treasury Bond ETF
+Bonds,Treasuries,U.S. Long-Term,TLT,iShares 20+ Year Treasury Bond ETF
+Bonds,Treasuries,U.S. Short-Term,SHY,iShares 1-3 Year Treasury Bond ETF
+Bonds,Corporate,U.S. Investment Grade,LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF
+Bonds,Corporate,U.S. Short-Term IG,IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF
+Bonds,High Yield,U.S. High Yield,HYG,iShares iBoxx $ High Yield Corporate Bond ETF
+Bonds,Municipal,U.S. National,MUB,iShares National Muni Bond ETF
+Bonds,International,Developed Markets,IGOV,iShares International Treasury Bond ETF
+Bonds,Emerging Markets,Local Currency,LEMB,iShares J.P. Morgan EM Local Currency Bond ETF
+Bonds,Inflation-Linked,U.S. Broad,TIP,iShares TIPS Bond ETF
+Commodities,Precious Metals,Gold,IAU,iShares Gold Trust
+Commodities,Precious Metals,Silver,SLV,iShares Silver Trust
+Commodities,Broad,Diversified,GSG,iShares S&P GSCI Commodity-Indexed Trust
+Real Estate,U.S. Real Estate,U.S.,IYR,iShares U.S. Real Estate ETF
+Real Estate,Global Real Estate,Global,REET,iShares Global REIT ETF
+Smart Beta,Factor,U.S. Momentum,MTUM,iShares MSCI USA Momentum Factor ETF
+Smart Beta,Factor,U.S. Value,VLUE,iShares MSCI USA Value Factor ETF
+ESG,ESG Aware,U.S.,ESGU,iShares ESG Aware MSCI USA ETF
+ESG,Climate,Global Low Carbon,CRBN,iShares MSCI ACWI Low Carbon Target ETF
+Thematic,Clean Energy,Global,ICLN,iShares Global Clean Energy ETF
+Thematic,Cybersecurity,Global,IHAK,iShares Cybersecurity and Tech ETF
+Bonds,Sovereign,Developed Markets,IGOV,iShares International Treasury Bond ETF
+Bonds,Sovereign,Emerging Markets,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF
+Bonds,Sovereign,Emerging Markets LC,LEMB,iShares J.P. Morgan EM Local Currency Bond ETF
+Bonds,Aggregate,Global ex-US,IAGG,iShares Core International Aggregate Bond ETF
+Bonds,Aggregate,Global,IUSB,iShares Core Total USD Bond Market ETF
+Bonds,Corporate,Global ex-US,IBND,SPDR Bloomberg International Corporate Bond ETF
+Bonds,Sovereign + Corporate,Global,BNDX,Vanguard Total International Bond ETF

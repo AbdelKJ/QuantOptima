@@ -1,0 +1,11 @@
+streamlit~=1.43.0
+pandas~=2.2.3
+plotly~=6.0.1
+yfinance~=0.2.54
+DateTime~=5.5
+numpy~=2.2.4
+scikit-learn~=1.6.1
+skfolio~=0.9.0
+scipy~=1.15.2
+reportlab~=4.3.1
+PyPDF2~=3.0.1

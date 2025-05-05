@@ -1,0 +1,8 @@
+[client]
+showSidebarNavigation = true
+
+[server]
+headless = true
+
+[multipage]
+pages_directory = "Sheets"
