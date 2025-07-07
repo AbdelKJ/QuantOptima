@@ -31,7 +31,13 @@ import bt
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfbase import pdfmetrics
 
-pdfmetrics.registerFont(TTFont('Times-Italic', 'timesi.ttf'))
+# Get the correct relative path to the font file
+font_path = os.path.join("assets", "fonts", "timesi.ttf")
+
+# Register the font using the correct path
+pdfmetrics.registerFont(TTFont('Times-Italic', font_path))
+
+
 
 
 #======================================================================================================================
