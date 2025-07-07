@@ -1572,7 +1572,7 @@ def generate_continuous_pdf(inv_note, executive_summary, macro_perspective, asse
 
         # Save to PDF
         buf = BytesIO()
-        plt.tight_layout()
+        # plt.tight_layout()
         plt.savefig(buf, format="png", bbox_inches="tight", dpi=500)
         plt.close()
         buf.seek(0)
