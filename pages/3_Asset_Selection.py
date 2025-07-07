@@ -18,11 +18,19 @@ render_sidebar()
 
 # ==== Load API Key ====
 load_dotenv()
-FMP_API_KEY = os.getenv("FMP_API_KEY")
-if not FMP_API_KEY:
-    st.error("❌ FMP_API_KEY not found. Please add it to your .env file.")
-    st.stop()
+# FMP_API_KEY = os.getenv("FMP_API_KEY")
+# if not FMP_API_KEY:
+#     st.error("❌ FMP_API_KEY not found. Please add it to your .env file.")
+#     st.stop()
 
+load_dotenv()
+
+# Try Streamlit secrets first, fallback to .env
+FMP_API_KEY = st.secrets["api"]["fmp_key"] if "api" in st.secrets else os.getenv("FMP_API_KEY")
+
+if not FMP_API_KEY:
+    st.error("❌ FMP_API_KEY not found. Please add it to Streamlit Secrets or your .env file.")
+    st.stop()
 
 #======================================================================================================================
 # Asset Classes Lists Download and Mapping
