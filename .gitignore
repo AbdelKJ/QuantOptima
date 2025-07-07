@@ -1,6 +1,7 @@
 # 🔐 Secrets & Environment Variables
 .env
 config/secrets.toml
+config/credentials.toml
 
 # 📦 Virtual Environments
 .venv/
