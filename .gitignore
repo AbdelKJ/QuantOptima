@@ -1,0 +1,33 @@
+# 🔐 Secrets & Environment Variables
+.env
+config/secrets.toml
+
+# 📦 Virtual Environments
+.venv/
+venv/
+env/
+
+# 🗂️ Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 IDEs & Editor Settings
+.vscode/
+.idea/
+
+# 📊 Output & Reports
+*.pdf
+output/
+reports/
+
+# 🔧 Build & Packaging
+*.egg-info/
+dist/
+build/
+
+# 📁 OS-Specific
+.DS_Store
+Thumbs.db
+/data/clients/
