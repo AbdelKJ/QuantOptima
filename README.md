@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QuantOptima-v8
 
 **QuantOptima** is a next-generation portfolio optimization platform designed for financial professionals. Built using Streamlit and Financial Modeling Prep (FMP), it enables secure multi-user access, intuitive client onboarding, personalized risk profiling, asset selection, portfolio modeling, and automated PDF report generation.
@@ -68,3 +69,7 @@ QuantOptima-v8/
 ## 🧠 Author
 
 Built by **Karim** — Quantitative Strategist, Fintech Builder, and Client-Focused Innovator.
+=======
+# QuantOptima
+Advanced Asset Allocation and Portfolio Optimization Wealth Management Tool
+>>>>>>> 90ee219249c86223b7f6e0242553018933330978
