@@ -28,14 +28,14 @@ import seaborn as sns
 import numpy as np
 import scipy.stats as stats
 import bt
-from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.pdfbase import pdfmetrics
-
-# Get the correct relative path to the font file
-font_path = os.path.join("assets", "fonts", "timesi.ttf")
-
-# Register the font using the correct path
-pdfmetrics.registerFont(TTFont('Times-Italic', font_path))
+# from reportlab.pdfbase.ttfonts import TTFont
+# from reportlab.pdfbase import pdfmetrics
+#
+# # Get the correct relative path to the font file
+# font_path = os.path.join("assets", "fonts", "timesi.ttf")
+#
+# # Register the font using the correct path
+# pdfmetrics.registerFont(TTFont('Times-Italic', font_path))
 
 
 
