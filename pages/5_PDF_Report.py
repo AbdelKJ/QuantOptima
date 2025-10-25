@@ -305,7 +305,7 @@ def generate_continuous_pdf(inv_note, executive_summary, macro_perspective, asse
 
     # === Cover Page ===
     # ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-    c.drawImage("assets/coverpage6.png", 0, 0, width=PAGE_WIDTH, height=PAGE_HEIGHT)
+    c.drawImage("assets/coverpage8.png", 0, 0, width=PAGE_WIDTH, height=PAGE_HEIGHT)
     c.showPage()
 
     # === TOC Placeholder ===
